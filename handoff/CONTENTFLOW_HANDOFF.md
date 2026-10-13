@@ -139,7 +139,7 @@ WHERE a.expires_at > now() AND NOT EXISTS (
 
 ```
 ContentFlow 작업을 이어서 하려고 해. 저장소 ZZangbo/Contentflow의
-handoff/CONTENTFLOW_HANDOFF.md를 먼저 읽고, Supabase(wlvhmuudjylaayunnkop)로
+handoff/CONTENTFLOW_HANDOFF.md(브랜치 claude/pensive-feynman-4gnf5n)를 먼저 읽고, Supabase(wlvhmuudjylaayunnkop)로
 현재 상태(열린 run, 미사용 승인, 이번 달 비용)를 확인한 뒤 시작해 줘.
 오늘 할 일: <할 일>
 ```
